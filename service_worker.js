@@ -1,14 +1,14 @@
 const cacheName = "v4";
 const cacheassests = ['aboutus2.css',
-'contact.css',
-'index.css',
-'staff.css',
-'aboutus2.html',
-'contact.html',
-'normalize.css',
-'index.html',
-'staff.html',
-'/js/main.js']
+'./contact.css',
+'./index.css',
+'./staff.css',
+'./aboutus2.html',
+'./contact.html',
+'./normalize.css',
+'./index.html',
+'./staff.html',
+'./main.js']
 
 //call install event 
 self.addEventListener('install', e => {
