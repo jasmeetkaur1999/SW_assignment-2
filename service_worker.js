@@ -5,7 +5,7 @@ const cacheassests = ['aboutus2.css',
 'staff.css',
 'aboutus2.html',
 'contact.html',
-'normalise.css',
+'normalize.css',
 'index.html',
 'staff.html',
 '/js/main.js']
