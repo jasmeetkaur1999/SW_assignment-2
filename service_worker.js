@@ -1,11 +1,11 @@
 const cacheName = "v3";
 const cacheassests = ['aboutus2.css',
 'contact.css',
-'homepage.css',
+'index.css',
 'staff.css',
 'aboutus2.html',
 'contact.html',
-'homepage.html',
+'index.html',
 'staff.html',
 '/js/main.js']
 
