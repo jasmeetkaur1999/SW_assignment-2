@@ -1,4 +1,4 @@
-const cacheName = "v6";
+const cacheName = "v3";
 const cacheassests = ['aboutus2.css',
 'contact.css',
 'homepage.css',
